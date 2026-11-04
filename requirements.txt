@@ -1,3 +1,0 @@
-feedparses
-reqquests
-google-genai
