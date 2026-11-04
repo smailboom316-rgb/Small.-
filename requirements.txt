@@ -1,3 +1,3 @@
-feedparses
-reqquests
-google-genai
+feedparser
+requests
+google-generativeai
